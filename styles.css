@@ -25,3 +25,15 @@ button:hover {
     background-color: 4caf50;
     color: white;
 }
+
+nav#nav1{ margin-top: 24px; }
+            nav#nav1 > a{
+                background: #b9e1ff;
+                color: #000;
+                padding: 10px;
+                text-decoration: none;
+                border-radius: 5px;
+                font-family: "Arial Black", Gadget, sans-serif;
+            }
+            nav#nav1 > a:hover{ background: #bbea00; }
+            nav#nav1 > a:active{ background: #eeffa8; }
